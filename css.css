@@ -60,3 +60,14 @@
 /*.button.pressed, .trigger-button.pressed, .bumper.pressed {*/
 /*    background:#212121*/
 /*}*/
+
+.controller {
+    position: absolute;
+    top: initial;
+    /*left: initial;*/
+    transform: initial;
+    display: initial;
+    margin-top: initial;
+    margin-left: initial;
+    left: 0;
+}
