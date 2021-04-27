@@ -63,11 +63,11 @@
 
 .controller {
     position: absolute;
-    top: initial;
+    /*top: initial;*/
     /*left: initial;*/
-    transform: initial;
-    display: initial;
-    margin-top: initial;
-    margin-left: initial;
+    /*transform: initial;*/
+    /*display: initial;*/
+    /*margin-top: initial;*/
+    /*margin-left: initial;*/
     left: 0;
 }
