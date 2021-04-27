@@ -40,6 +40,10 @@
     background-image:url("https://raw.githubusercontent.com/OriolFilter/arcade_layout/master/src/H.png");
     background-position: center;
 }
+.fight-stick .trigger-button.right {
+    background-image:url("https://raw.githubusercontent.com/OriolFilter/arcade_layout/master/src/D.png");
+    background-position: center;
+}
 /*.fight-stick .x {*/
 /*    background-color:blue;*/
 /*}*/
