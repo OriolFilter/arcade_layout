@@ -65,9 +65,12 @@
     position: absolute;
     /*top: initial;*/
     /*left: initial;*/
-    /*transform: initial;*/
+    transform: initial;
     /*display: initial;*/
     /*margin-top: initial;*/
     /*margin-left: initial;*/
     left: 0;
+    bottom: 0;
+    top: 0;
+    right: 0;
 }
