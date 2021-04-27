@@ -22,18 +22,23 @@
 /* Here comes my things */
 .fight-stick .a {
     background-image:url("https://raw.githubusercontent.com/OriolFilter/arcade_layout/master/src/P.png");
+    background-position: center;
 }
 .fight-stick .x {
     background-image:url("https://raw.githubusercontent.com/OriolFilter/arcade_layout/master/src/K.png");
+    background-position: center;
 }
 .fight-stick .y {
     background-image:url("https://raw.githubusercontent.com/OriolFilter/arcade_layout/master/src/S.png");
+    background-position: center;
 }
 .fight-stick .b {
     background-image:url("https://raw.githubusercontent.com/OriolFilter/arcade_layout/master/src/Blank.png");
+    background-position: center;
 }
 .fight-stick .bumper.right {
     background-image:url("https://raw.githubusercontent.com/OriolFilter/arcade_layout/master/src/H.png");
+    background-position: center;
 }
 /*.fight-stick .x {*/
 /*    background-color:blue;*/
