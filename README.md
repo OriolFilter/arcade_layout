@@ -1,8 +1,11 @@
 ### Portable configurations for the page  https://gamepadviewer.com/ intended for OBS or derivates usage.
 
-# xrd
+# Xrd
 
 Type - A
+
+![Xrd type - A](src/layouts/xrd_A.jpg)
+
 ```
 https://gamepadviewer.com/?p=1&s=7&editcss=https://raw.githubusercontent.com/OriolFilter/arcade_layout/master/xrd_A.css
 ```
@@ -11,6 +14,9 @@ https://gamepadviewer.com/?p=1&s=7&editcss=https://raw.githubusercontent.com/Ori
 # BBCF
 
 Type - A
+
+![BBCF type - A](src/layouts/bbcf_A.jpg)
+
 ```
 https://gamepadviewer.com/?p=1&s=7&editcss=https://raw.githubusercontent.com/OriolFilter/arcade_layout/master/bbcf_A.css
 ```
