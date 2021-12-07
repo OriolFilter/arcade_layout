@@ -21,6 +21,16 @@ Type - A
 https://gamepadviewer.com/?p=1&s=7&editcss=https://raw.githubusercontent.com/OriolFilter/arcade_layout/master/bbcf_A.css
 ```
 
+
+Type - B
+
+![BBCF type - B](src/layouts/bbcf_B.jpg)
+
+```
+https://gamepadviewer.com/?p=1&s=7&editcss=https://raw.githubusercontent.com/OriolFilter/arcade_layout/master/bbcf_B.css
+```
+
+
 # Controller mappings
 
 The page one can remap buttons, allowing you to customize which button triggers what.
