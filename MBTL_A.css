@@ -36,8 +36,6 @@
     background-size: contain;
 }
 .fight-stick .b {
-    background-image:url("https://raw.githubusercontent.com/OriolFilter/arcade_layout/master/src/MBTL/Blank.png");
-    background-position: center;
 }
 .fight-stick .bumper.right {
     background-image:url("https://raw.githubusercontent.com/OriolFilter/arcade_layout/master/src/MBTL/D.png");
@@ -45,8 +43,6 @@
     background-size: contain;
 }
 .fight-stick .trigger-button.right {
-    background-image:url("https://raw.githubusercontent.com/OriolFilter/arcade_layout/master/src/MBTL/Blank.png");
-    background-position: center;
 }
 .controller {
     position: absolute;
