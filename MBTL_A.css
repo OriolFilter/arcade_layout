@@ -21,32 +21,32 @@
 /* Stolen from http://www.zak123.com/u/3buttons.css */
 /* Here comes my things */
 .fight-stick .a {
-    background-image:url("https://raw.githubusercontent.com/OriolFilter/arcade_layout/master/src/BBCF/A.png");
+    background-image:url("https://raw.githubusercontent.com/OriolFilter/arcade_layout/master/src/MBTL/A.png");
     background-position: center;
     background-size: contain;
 }
 .fight-stick .x {
-    background-image:url("https://raw.githubusercontent.com/OriolFilter/arcade_layout/master/src/BBCF/B.png");
+    background-image:url("https://raw.githubusercontent.com/OriolFilter/arcade_layout/master/src/MBTL/B.png");
     background-position: center;
     background-size: contain;
 }
 .fight-stick .y {
-    background-image:url("https://raw.githubusercontent.com/OriolFilter/arcade_layout/master/src/BBCF/C.png");
+    background-image:url("https://raw.githubusercontent.com/OriolFilter/arcade_layout/master/src/MBTL/C.png");
     background-position: center;
     background-size: contain;
 }
 .fight-stick .b {
-    background-image:url("https://raw.githubusercontent.com/OriolFilter/arcade_layout/master/src/BBCF/Blank.png");
+    background-image:url("https://raw.githubusercontent.com/OriolFilter/arcade_layout/master/src/MBTL/Blank.png");
     background-position: center;
     background-size: contain;
 }
 .fight-stick .bumper.right {
-    background-image:url("https://raw.githubusercontent.com/OriolFilter/arcade_layout/master/src/BBCF/D.png");
+    background-image:url("https://raw.githubusercontent.com/OriolFilter/arcade_layout/master/src/MBTL/D.png");
     background-position: center;
     background-size: contain;
 }
 .fight-stick .trigger-button.right {
-    background-image:url("https://raw.githubusercontent.com/OriolFilter/arcade_layout/master/src/BBCF/Blank.png");
+    background-image:url("https://raw.githubusercontent.com/OriolFilter/arcade_layout/master/src/MBTL/Blank.png");
     background-position: center;
 }
 .controller {
