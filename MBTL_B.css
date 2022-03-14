@@ -36,6 +36,9 @@
     background-size: contain;
 }
 .fight-stick .b {
+    background-image:url("https://raw.githubusercontent.com/OriolFilter/arcade_layout/master/src/MBTL/E.png");
+    background-position: center;
+    background-size: contain;
 }
 .fight-stick .bumper.right {
     background-image:url("https://raw.githubusercontent.com/OriolFilter/arcade_layout/master/src/MBTL/C.png");
