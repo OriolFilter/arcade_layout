@@ -1,13 +1,44 @@
 ### Portable configurations for the page  https://gamepadviewer.com/ intended for OBS or derivates usage.
 
+- [MBTL](#MBTL)
+- [Xrd](#Xrd)
+- [BBCF](#BBCF)
+
 # Xrd
 
 Type - A
 
 ![Xrd type - A](src/layouts/xrd_A.jpg)
 
-```
+```sh
 https://gamepadviewer.com/?p=1&s=7&editcss=https://raw.githubusercontent.com/OriolFilter/arcade_layout/master/xrd_A.css
+```
+
+
+# MBTL
+
+Type - A
+
+![MBTL type -A](src/layouts/mbtl_A.jpg)
+
+```sh
+https://gamepadviewer.com/?p=1&s=7&editcss=https://raw.githubusercontent.com/OriolFilter/arcade_layout/master/MBTL_A.css
+```
+
+Type - A custom
+
+![MBTL type -A](src/layouts/mbtl_A_custom.jpg)
+
+```sh
+https://gamepadviewer.com/?p=1&s=7&editcss=https://raw.githubusercontent.com/OriolFilter/arcade_layout/master/MBTL_A_custom.css
+```
+
+Type - B
+
+![MBTL type -A](src/layouts/mbtl_B.jpg)
+
+```sh
+https://gamepadviewer.com/?p=1&s=7&editcss=https://raw.githubusercontent.com/OriolFilter/arcade_layout/master/MBTL_B.css
 ```
 
 
